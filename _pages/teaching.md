@@ -21,3 +21,5 @@ I was teaching assistant (TA) in following courses;
 * Solid State Electronics [Spring 2019 [ITU](https://itu.edu.pk)]
 
 * Signals and Systems [Fall 2019 [ITU](https://itu.edu.pk)]  
+
+* Machine Learning [Spring 2020 [ITU](https://itu.edu.pk)]  
