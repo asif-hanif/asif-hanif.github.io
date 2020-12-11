@@ -5,7 +5,8 @@ header:
 #image: "/images/zakim.jpg"
 ---
 <div style="text-align: justify">
-Currently, I am research associate at <a href="https://itu.edu.pk" target="_blank">Information Technology University (ITU), Lahore</a>. I have completed MS in Electrical Engineering from <a href="https://itu.edu.pk" target="_blank">ITU</a>. My current research work is on the use of <a href="https://www.bayesserver.com/docs/introduction/bayesian-networks" target="_blank">Bayesian network</a> for root cause analysis (RCA) of faults in industrial plants and identification of most-influential-path between root-cause node and fault-detection point. One of the challenges in using Bayesian network is the exponential growth of distribution parameters with the number of nodes in it. We are aiming to tackle this issue by efficiently learning distribution parameters of Bayesian network using recent advances in deep neural networks. I have also worked worked on sub-sampled Fourier ptychography.
+Currently, I am research associate at <a href="https://itu.edu.pk" target="_blank">Information Technology University (ITU), Lahore</a>. I have completed MS in Electrical Engineering from <a href="https://itu.edu.pk" target="_blank">ITU</a>. My current research work is on the use of <a href="https://www.bayesserver.com/docs/introduction/bayesian-networks" target="_blank">Bayesian network</a> for root cause analysis (RCA) of faults in industrial plants and identification of most-influential-path between root-cause node and fault-detection point. One of the challenges in using Bayesian network is the exponential growth of distribution parameters with the number of nodes in it. We have tackled this issue by efficiently learning distribution parameters of continuous Bayesian network using neural networks. 
+I have also worked worked on inverse problems&#151Fourier Ptychography and Light Field Microscopy&#151 by using recent advances in deep learning.
 </div>
 
 <br />
