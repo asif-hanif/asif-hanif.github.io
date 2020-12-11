@@ -21,6 +21,10 @@ Here is a list of my publications. You may want to visit my <a href="https://sch
 
 
 
+* <a href="https://openreview.net/forum?id=SyxJpm3cLH" target="_blank"> Subsampled Fourier Ptychography via Pretrained Invertible and Untrained Network Priors  </a>  <small>[**NeurIPS Workshop on Deep Learning and Inverse Problems, Dec 2019**] <a href="https://asif-hanif.github.io/_pages/ICCV2019.pdf" target="_blank">[PDF]</a> </small>.
+
+
+
 <br />
 <br />
 <br />
