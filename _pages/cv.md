@@ -5,7 +5,7 @@ header:
 #image: "/images/zakim.jpg"
 ---
 <div style="text-align: justify">
-View my CV here.
+View my CV <a href="https://asif-hanif.github.io/_pages/CV.pdf" target="_blank">[here]</a>.
 </div>
 
 
