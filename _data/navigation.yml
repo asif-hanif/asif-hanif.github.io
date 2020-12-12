@@ -9,7 +9,7 @@ main:
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
-    url: /cv/
+    url: /_pages/CV.pdf
      
   # - title: "Sample Collections"
   #   url: /collection-archive/
