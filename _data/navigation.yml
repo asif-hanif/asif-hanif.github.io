@@ -8,6 +8,8 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "CV"
+    url: /_pages/CV.pdf
      
   # - title: "Sample Collections"
   #   url: /collection-archive/
