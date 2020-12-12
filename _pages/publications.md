@@ -13,7 +13,7 @@ Here is a list of my publications. You may want to visit my <a href="https://sch
 
 
 
-* <a href="https://ieeexplore.ieee.org/abstract/document/8589770" target="_blank">WiSpy: Through-Wall Movement Sensing and Person Counting using Commodity WiFi Signals</a> <small>[**IEEE SENSORS Conf. Oct 2018**] <a href="https://asif-hanif.github.io/_pages/SENSORS2018.pdf" target="_blank">[PDF]</a></small>. 
+* <a href="https://ieeexplore.ieee.org/abstract/document/8589770" target="_blank">WiSpy: Through-Wall Movement Sensing and Person Counting using Commodity WiFi Signals</a> <small>[**IEEE SENSORS Conference, Oct 2018**] <a href="https://asif-hanif.github.io/_pages/SENSORS2018.pdf" target="_blank">[PDF]</a></small>. 
 
   
 
