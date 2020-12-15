@@ -23,3 +23,7 @@ I was teaching assistant (TA) in following courses;
 * Signals and Systems [Fall 2019 [ITU](https://itu.edu.pk)]  
 
 * Machine Learning [Spring 2020 [ITU](https://itu.edu.pk)]  
+
+
+<br />
+<a href="/_pages/CV.pdf">CV</a>
