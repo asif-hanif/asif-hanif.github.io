@@ -25,5 +25,5 @@ Previously, I was research assistant at <a href="https://lums.edu.pk" target="_b
 <br />
 <a href="/teaching/">Teaching</a>
 <br />
-<a href="/_pages/CV.pdf/">CV</a>
+<a href="/_pages/CV.pdf">CV</a>
 
