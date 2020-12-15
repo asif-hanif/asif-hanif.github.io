@@ -39,7 +39,8 @@ Right now, my research work is on the use of <a href="https://www.bayesserver.co
 <a href="/publications/">Publications</a>
 <br />
 <a href="/teaching/">Teaching</a>
-
+<br />
+<a href="/_pages/CV.pdf">CV</a>
 
 
 
