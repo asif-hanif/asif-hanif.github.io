@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Asif Hanif"
   avatar           : "/images/asif.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate Student MS Electrical Engineering at <a href='https://itu.edu.pk' target='_blank'>ITU, Lahore</a>  "
+  bio              : "Associate Researcher at <a href='https://itu.edu.pk' target='_blank'>ITU, Lahore</a>  "
   location         : "Lahore, Pakistan"
   email            : # "asif.hanif@outlook.com"
   uri              :
