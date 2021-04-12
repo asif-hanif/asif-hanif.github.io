@@ -21,4 +21,21 @@ image: "/images/zakim.jpg"
                 <p>This post explains loss function to learn mixture-of-logsitcis(MoL)</p>
             </td>
           </tr>
+         
+           <tr onmouseout="portrait_stop()" onmouseover="portrait_start()">
+            <td width="25%">
+              <div class="one">
+                <div class="two" id='portrait_image'><img src='images/BD-J.PNG'></div>
+                <img src='images/BD-J-after.PNG'>
+              </div>
+              <script type="text/javascript">
+                function portrait_start() {
+                  document.getElementById('portrait_image').style.opacity = "1";
+                }
+                function portrait_stop() {
+                  document.getElementById('portrait_image').style.opacity = "0";
+                }
+                portrait_stop()
+              </script>
+            </td>
 </table>
