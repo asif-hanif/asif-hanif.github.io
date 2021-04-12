@@ -2,6 +2,7 @@
 title: "Research"
 permalink: /research/
 header:
+layout: splash
 ---
 
 <div style="text-align: justify">
