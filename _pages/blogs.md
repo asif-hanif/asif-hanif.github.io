@@ -7,3 +7,4 @@ image: "/images/zakim.jpg"
 
 Here are my blogs.
 
+LogisticMixtureLossFunction.html
