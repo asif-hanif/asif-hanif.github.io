@@ -2,7 +2,7 @@
 title: "Teaching"
 permalink: /teaching/
 header:
-image: "/images/zakim.jpg"
+layout: splash
 ---
 
 
