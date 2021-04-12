@@ -11,3 +11,37 @@ Here are my blogs.
 <br />
 <a href="/_pages/blogs/LogisticMixtureLossFunction.html">MoL Loss</a>
 
+
+
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+          <tr>
+            <td width="100%" valign="middle">
+              <heading>Research</heading>
+              <p>
+                I am interested in computational imaging, machine learning, optimization, and image processing.. Much of my recent research is about regularizing the inverse problems in signal and image processing using generative models (GANs, VAEs and Intertible models). Before that i have worked on theoretical aspect of samling architectures designed for low rank and sparse signals. I have also worked on removing Poisson noise in low light imaging in astronomy.
+              </p>
+            </td>
+          </tr>
+        </table>
+
+        <table width="120%" align="center" border="0" cellspacing="0" cellpadding="20">
+          
+          <tr>
+            <td width="25%">
+              <img src='images/BD.PNG'>
+            </td>
+            <td valign="top" width="75%">
+              <p>
+                <a href="https://arxiv.org/abs/1701.03077">
+                  <papertitle>Blind Image Deconvolution using Pretrained Generative Priors</papertitle>
+                </a>
+                <br>
+                Muhammad Asim*, <strong> Fahad Shamshad* </strong>, Ali Ahmed
+                <br>
+                <em>Submitted to 'Which-Must-Not-Be-Named'</em>, 2019
+                <br>
+                <p></p>
+                <p>This paper proposes a novel approach to regularize the ill-posed and non-linear blind image deconvolution (blind deblurring) problem using deep generative networks</p>
+            </td>
+          </tr>
