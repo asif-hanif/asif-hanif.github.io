@@ -2,7 +2,6 @@
 title: "Research"
 permalink: /research/
 header:
-image: "/images/zakim.jpg"
 ---
 
 <div style="text-align: justify">
@@ -39,8 +38,10 @@ Right now, my research work is on the use of <a href="https://www.bayesserver.co
 <a href="/publications/">Publications</a>
 <br />
 <a href="/teaching/">Teaching</a>
-
-
+<br />
+<a href="/_pages/CV.pdf">CV</a>
+<br />
+<a href="/blogs/">Blogs</a>
 
 
 

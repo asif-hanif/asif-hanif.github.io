@@ -3,7 +3,6 @@
    ========================================================================== */
 
 #main {
-  @include clearfix;
   margin-left: auto;
   margin-top: 2em;
   margin-right: auto;
@@ -22,13 +21,13 @@
 
 .page {
   @include breakpoint($large) {
-    float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+    float: left;
+    width: 100%;
     padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
+    width: 100%;
     padding-right: $right-sidebar-width;
   }
 

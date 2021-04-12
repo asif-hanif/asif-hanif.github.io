@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Research"
     url: /research/
   - title: "Publications"
@@ -10,8 +8,6 @@ main:
     url: /teaching/
   - title: "CV"
     url: /_pages/CV.pdf
-     
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Blogs"
+    url: /blogs/   
+

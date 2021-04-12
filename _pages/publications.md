@@ -2,7 +2,7 @@
 title: "Publications"
 permalink: /publications/
 header:
-image: "/images/zakim.jpg"
+layout: splash
 ---
 
 
@@ -29,3 +29,5 @@ Here is a list of my publications. You may want to visit my <a href="https://sch
 <br />
 <br />
 <a href="/teaching/">Teaching</a>
+<br />
+<a href="/_pages/CV.pdf">CV</a>
