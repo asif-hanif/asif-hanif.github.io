@@ -3,11 +3,10 @@
    ========================================================================== */
 
 #main {
-  @include clearfix;
   margin-left: auto;
   margin-top: 2em;
   margin-right: auto;
-  padding-left: 2em;
+  padding-left: 1em;
   padding-right: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
