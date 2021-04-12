@@ -7,4 +7,7 @@ image: "/images/zakim.jpg"
 
 Here are my blogs.
 
-LogisticMixtureLossFunction.html
+
+<br />
+<a href="/_pages/blogs/LogisticMixtureLossFunction.html">MoL Loss</a>
+
