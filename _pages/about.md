@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-#image: "/images/zakim.jpg"
+classes: wide
 ---
 <div style="text-align: justify">
 Currently, I am associate researcher at <a href="http://cactus.itu.edu.pk/" target="_blank">CACTUS</a> of <a href="https://itu.edu.pk" target="_blank">Information Technology University (ITU), Lahore</a>. I have completed MS in Electrical Engineering from <a href="https://itu.edu.pk" target="_blank">ITU</a>. My current research work is on the use of <a href="https://www.bayesserver.com/docs/introduction/bayesian-networks" target="_blank">Bayesian network</a> for root cause analysis (RCA) of faults in industrial plants and identification of most-influential-path between root-cause node and fault-detection point. One of the challenges in using Bayesian network is the exponential growth of distribution parameters with the number of nodes in it. We have tackled this issue by efficiently learning distribution parameters of continuous Bayesian network using neural networks. <br>
