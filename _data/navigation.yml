@@ -10,7 +10,8 @@ main:
     url: /teaching/
   - title: "CV"
     url: /_pages/CV.pdf
-     
+  - title: "Blogs"
+    url: /blogs/   
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
