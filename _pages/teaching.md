@@ -27,3 +27,5 @@ I was teaching assistant (TA) in following courses;
 
 <br />
 <a href="/_pages/CV.pdf">CV</a>
+<br />
+<a href="/blogs/">Blogs</a>
