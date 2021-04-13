@@ -2,7 +2,7 @@
 title: "Research"
 permalink: /research/
 author_profile: true
-layout: splash
+layout: archive
 
 ---
 
