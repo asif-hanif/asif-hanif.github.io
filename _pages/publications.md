@@ -1,7 +1,8 @@
 ---
 title: "Publications"
 permalink: /publications/
-layout: single
+layout: splash
+author_profile: true
 
 ---
 
@@ -31,5 +32,7 @@ Here is a list of my publications. You may want to visit my <a href="https://sch
 <a href="/teaching/">Teaching</a>
 <br />
 <a href="/_pages/CV.pdf">CV</a>
+<br />
+<a href="/blogs/">Blogs</a>
 <br />
 <a href="/blogs/">Blogs</a>
