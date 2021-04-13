@@ -2,7 +2,9 @@
 title: "Research"
 permalink: /research/
 author_profile: true
-layout: splash
+layout: single
+classes: wide
+
 ---
 
 <div style="text-align: justify">
