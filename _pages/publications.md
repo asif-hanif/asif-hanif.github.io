@@ -1,7 +1,8 @@
 ---
 title: "Publications"
 permalink: /publications/
-layout: archive
+layout: single
+classes: wide
 
 ---
 
