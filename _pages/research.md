@@ -26,12 +26,12 @@ Here is a list of projects that I have worked on at <a href='https://lums.edu.pk
   
 <br />
 <div style="text-align: justify">
-In 2018, I joined <a href='https://itu.edu.pk' target='_blank'>ITU, Lahore</a> for MS degree in electrical engineering. I was awarded graduate research fellowship. Having realized the potential of deep learning, I decided to pursue thesis that relies on concepts from machine learning and deep learning. During first year of MS, I worked on solving inverse problem (Fourier Ptychography) using deep learning model and have one paper that was accepted at <a href="http://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Shamshad_Adaptive_Ptych_Leveraging_Image_Adaptive_Generative_Priors_for_Subsampled_Fourier_ICCVW_2019_paper.html" target="_blank"> ICCV 2019</a>. </div>
+In 2018, I joined <a href='https://itu.edu.pk' target='_blank'>ITU, Lahore</a> for MS degree in electrical engineering. I was awarded graduate research fellowship. Having realized the potential of deep learning, I decided to pursue thesis that relies on concepts from machine learning and deep learning. During first year of MS, I worked on solving inverse problem (Fourier Ptychography) using deep learning model and have two papers that were accepted at <a href="http://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Shamshad_Adaptive_Ptych_Leveraging_Image_Adaptive_Generative_Priors_for_Subsampled_Fourier_ICCVW_2019_paper.html" target="_blank"> ICCV 2019</a> and <a href="https://openreview.net/forum?id=SyxJpm3cLH" target="_blank"> NeurIPS Workshop on Deep Learning and Inverse Problems, 2019</a>. </div>
 
 
 <br />
 <div style="text-align: justify">
-Right now, my research work is on the use of <a href="https://www.bayesserver.com/docs/introduction/bayesian-networks" target="_blank">Bayesian network</a> for root cause analysis (RCA) of faults in industrial plants. One of the main challenges in using Bayesian network is the exponential growth of distribution parameters with the number of nodes in it. We are aiming to tackle this issue by efficiently learning distribution parameters of Bayesian network using recent advances in deep neural networks.
+Right now, my research work is on the use of graph neural networks (GNNs) for user de-anonymization in blockchain network. For my MS thesis, I worked on <a href="https://www.bayesserver.com/docs/introduction/bayesian-networks" target="_blank">Bayesian network</a> for root cause analysis (RCA) of faults in industrial plants. One of the main challenges in using Bayesian network is the exponential growth of distribution parameters with the number of nodes in it. We are aiming to tackle this issue by efficiently learning distribution parameters of Bayesian network using recent advances in deep neural networks.
 </div>
 
 
