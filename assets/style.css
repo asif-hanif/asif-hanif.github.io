@@ -621,3 +621,54 @@ h2 {
   }
 }
 
+
+
+
+.news-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.news-table tr {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.news-table tr:last-child {
+  border-bottom: none;
+}
+
+.news-table td {
+  padding: 0.75rem 0;
+  vertical-align: top;
+}
+
+.news-date {
+  font-weight: 600;
+  color: #374151;
+  white-space: nowrap;
+  padding-right: 2rem;
+  min-width: 130px;
+}
+
+.news-content {
+  color: #4b5563;
+  line-height: 1.6;
+}
+
+/* Responsive design for mobile */
+@media (max-width: 640px) {
+  .news-table td {
+    display: block;
+    padding: 0.25rem 0;
+  }
+  
+  .news-date {
+    padding-right: 0;
+    padding-bottom: 0.25rem;
+  }
+  
+  .news-table tr {
+    padding: 0.75rem 0;
+  }
+}
